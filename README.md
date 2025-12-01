@@ -11,9 +11,9 @@
     This section explains how the four main Object-Oriented Programming (OOP) principles were implemented in the SecuriVault Password Manager System.
 
  *a. Encapsulation*
-<div style="text-align: justify;">
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Encapsulation in the SecuriVault system was implemented through the proper use of access modifiers, getters, and setters to protect sensitive data and ensure controlled access to class members. In the VaultEntry class, the accountName and password fields are declared as private, preventing direct external access and manipulation. Public getter methods such as getAccountName() and getPassword() provide read-only access to these fields, while setter methods include validation logic to maintain data integrity. For example, the setPassword() method validates that passwords are at least 5 characters long before allowing the value to be set, throwing an IllegalArgumentException if the validation fails. Similarly, the VaultManager class encapsulates the internal Map<String, VaultEntry> data structure that stores all password entries, exposing only necessary operations through public methods like createEntry(), readEntry(), updateEntry(), and deleteEntry(). This approach ensures that the internal implementation details remain hidden from external classes, and all interactions with the vault data must go through controlled, validated methods. The SecuriVaultSystem class also demonstrates encapsulation by keeping its vaultManager, generator, scanner, and exitFlag fields private, allowing users to interact with the system only through well-defined public methods like start(). This implementation of encapsulation protects the system's data from unauthorized access and modification while maintaining flexibility for future changes to internal implementations without affecting external code.
-</div>
+
     
 *b. Inheritance*
 
