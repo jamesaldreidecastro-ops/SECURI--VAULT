@@ -35,7 +35,7 @@
 
  **PROGRAM STRUCTURE**
 
-    Program Structure - description of the main class and their roles. A text-based class diagram or list of relationships may be included.
+    Description of the main class and their roles. A text-based class diagram or list of relationships may be included.
 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;SecuriVault was developed under the strict rules of Object-Oriented Programming, with each class doing one highly focused job. The SecuriVaultSystem class is the console controller, which handles input from the user, displays the menu, and controls the flow of the program. It thus shows polymorphism through its dependency on the abstract type AbstractPasswordGenerator, making it work with additional implementations of password generators without changing the core logic of the module.
@@ -73,7 +73,7 @@ abstract    = class cannot be instantiated
 
  **HOW TO RUN THE PROGRAM**
 
-     provide a step-by-step instruction on how to compile and run the program using the command line.
+     Provide a step-by-step instruction on how to compile and run the program using the command line.
 
 
 **Step 1:** Download Source Files
@@ -141,3 +141,4 @@ ACKNOWLEDGEMENT
 
  
 ## REFERENCE
+    HUHUHU ILOVE YOUUUUU WALTERRRRIVEEEEEERMUCHH
