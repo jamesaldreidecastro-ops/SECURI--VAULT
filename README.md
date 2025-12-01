@@ -116,6 +116,8 @@ Choice:
  **SAMPLE OUTPUT**
 
     show what the program looks like when it runs. A short code block or screenshot may be included.
+
+<img width="581" height="381" alt="Image" src="https://github.com/user-attachments/assets/976e0f00-fabe-4968-b804-a44711e1ec68" />
     
 ## Acknowledgements
 
