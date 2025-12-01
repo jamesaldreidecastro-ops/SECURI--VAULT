@@ -50,7 +50,7 @@ ComplexGenerator, LeetSpeakGenerator, and PhraseGenerator are other classes for 
 
 
 **A text-based Diagram**
-
+<img width="696" height="751" alt="Image" src="https://github.com/user-attachments/assets/1612596b-1440-4479-a4db-91b264bf8eaa" />
 
 
 
