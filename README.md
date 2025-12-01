@@ -117,6 +117,8 @@ Choice:
 
     show what the program looks like when it runs. A short code block or screenshot may be included.
 
+img width="587" height="267" alt="Image" src="https://github.com/user-attachments/assets/e0fddf35-0cbc-4af6-ad18-b86fdfe00e0a" />
+
 <img width="581" height="381" alt="Image" src="https://github.com/user-attachments/assets/976e0f00-fabe-4968-b804-a44711e1ec68" />
     
 ## Acknowledgements
