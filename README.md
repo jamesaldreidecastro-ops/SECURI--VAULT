@@ -122,6 +122,7 @@ Choice:
 <img width="589" height="466" alt="Image" src="https://github.com/user-attachments/assets/1cf95793-7844-4e2e-bca5-0de4a2c0dd1b" />
 <img width="578" height="288" alt="Image" src="https://github.com/user-attachments/assets/9b784425-1564-4190-8f2b-c853d35dc50a" />
 <img width="460" height="177" alt="Image" src="https://github.com/user-attachments/assets/d9297253-dce1-46c9-a65d-4d4b5307ffc0" />
+<img width="584" height="280" alt="Image" src="https://github.com/user-attachments/assets/e3ad1cc4-3998-4d24-a5c5-fb4fdf4c43f2" />
     
 ## Acknowledgements
 
