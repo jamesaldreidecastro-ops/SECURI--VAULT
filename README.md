@@ -140,5 +140,10 @@ ACKNOWLEDGEMENT
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Finally, words cannot express our gratitude to God for the strength, blessings, and courage throughout this journey.  It is through His grace that we have been sustained at every step, allowing us to overcome the challenges of this project with determination and hope.
 
  
-## REFERENCE
-    HUHUHU ILOVE YOUUUUU WALTERRRRIVEEEEEERMUCHH
+## AUTHOR
+James Aldrei D. Decastro | Rheywen M. De Guzman | Hanna Krescha D. Corona | Hanna Mae U. Cumal
+
+Bachelor of Science in Information Technology - 2103
+College of Informatics and Computing Sciences
+Batangas State University - The National Engineering University
+
